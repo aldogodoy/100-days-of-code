@@ -6,7 +6,7 @@
 
 #### Fecha de inicio
 
-25 de junio de 2016. [ponga su nombre aquí]
+15 de junio de 2022. Aldo Godoy
 
 ## Reglas adicionales
 

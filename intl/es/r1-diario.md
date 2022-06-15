@@ -1,11 +1,13 @@
-# #100DaysOfCode diario - ronda 1 - [ponga su nombre aquí]
+# #100DaysOfCode diario - ronda 1 - Aldo Godoy
 
-El diario de mi reto #100DaysOfCode. Empecé el [17 de julio, lunes, 2017]
+El diario de mi reto #100DaysOfCode. Empecé el miércoles 15 de junio, 2022
+Certificación de Algoritmos de Javascript y Estructuras de Datos de freeCodeCamp(🔥)
 
 ## Registro
 
 ### R1D1
 
-Empecé una aplicación de clima. Trabajé en el diseño gráfico de la aplicación. El API de OpenWeather fue una prueba http://www.example.com.
+Javascript básico
+Desde comentar código hasta, pasando por operaciones con numeros y cadenas de caracteres hasta asignar valores a un array
 
 ### R1D2
