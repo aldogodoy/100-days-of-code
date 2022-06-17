@@ -11,3 +11,5 @@ Javascript básico
 Desde comentar código hasta, pasando por operaciones con numeros y cadenas de caracteres hasta asignar valores a un array
 
 ### R1D2
+
+Operaciones varias con arrays, agregar al final, al principio, quitar el último elemento, agregar en la primera posición.
