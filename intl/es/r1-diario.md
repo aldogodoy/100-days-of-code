@@ -13,3 +13,8 @@ Desde comentar código hasta, pasando por operaciones con numeros y cadenas de c
 ### R1D2
 
 Operaciones varias con arrays, agregar al final, al principio, quitar el último elemento, agregar en la primera posición.
+
+### R1D3
+Llamadas a funciones, con parametros y sin parametros. Variables de ámbito local y global.
+Oeraciones con operadores de igualdad e igualdad estricta, mayor que, menor que, distinto igual.
+Sentencia condicional if
