@@ -18,3 +18,7 @@ Operaciones varias con arrays, agregar al final, al principio, quitar el último
 Llamadas a funciones, con parametros y sin parametros. Variables de ámbito local y global.
 Oeraciones con operadores de igualdad e igualdad estricta, mayor que, menor que, distinto igual.
 Sentencia condicional if
+
+### R1D4
+Operaciones con operadores lógicos OR, sentencia if anidadas, el juego del golf con array e if anidados.
+Empezando sentencia switch
