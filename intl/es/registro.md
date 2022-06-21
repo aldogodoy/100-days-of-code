@@ -31,3 +31,9 @@
 **Progreso de hoy**: aprendí mucho sobre los objetos y las distintas formas de trabajar con sus notaciones de llaves y corchetes
 
 **Reflexiones:** me atasqué en el ejercicio de profile lookup, tuve que preguntar la respuesta. Fue un error de lógica mía
+
+### Día 5: 21 de junio de 2022
+
+**Progreso de hoy**: hoy terminé el Round 1 (Basic Javascript). Empezamos mañana ES6
+
+**Reflexiones:** Me cuenta un poco la lógica de recursión. Los dos últimos ejercicios me hicieron pensar bastante

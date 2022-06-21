@@ -26,3 +26,8 @@ Empezando sentencia switch
 ### R1D5
 Manipulaciones complejas con objetos, ciclos while, for, do while. Ejercicio profile lookup.
 Empezando Math.
+
+### R1D6
+Math.Random(), parseInt, multiple ternary operators, recursion to create a range of numbers
+Round 1 done!.
+Mañana ECMAScript 6!
