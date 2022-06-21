@@ -25,3 +25,9 @@
 **Progreso de hoy**: operaciones con arrays y sentencias condicionales, el juego del golf
 
 **Reflexiones:** me sentí muy bien al programar un poco un sábado de noche. Vamos bien
+
+### Día 4: 20 de junio de 2022
+
+**Progreso de hoy**: aprendí mucho sobre los objetos y las distintas formas de trabajar con sus notaciones de llaves y corchetes
+
+**Reflexiones:** me atasqué en el ejercicio de profile lookup, tuve que preguntar la respuesta. Fue un error de lógica mía

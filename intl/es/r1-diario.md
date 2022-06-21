@@ -22,3 +22,7 @@ Sentencia condicional if
 ### R1D4
 Operaciones con operadores lógicos OR, sentencia if anidadas, el juego del golf con array e if anidados.
 Empezando sentencia switch
+
+### R1D5
+Manipulaciones complejas con objetos, ciclos while, for, do while. Ejercicio profile lookup.
+Empezando Math.
