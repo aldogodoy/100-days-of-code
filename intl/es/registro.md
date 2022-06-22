@@ -36,4 +36,10 @@
 
 **Progreso de hoy**: hoy terminé el Round 1 (Basic Javascript). Empezamos mañana ES6
 
-**Reflexiones:** Me cuenta un poco la lógica de recursión. Los dos últimos ejercicios me hicieron pensar bastante
+**Reflexiones:** Me cuenta un poco la lógica de recursión. Los dos últimos ejercicios me hicieron pensar bastante.
+
+### Día 6: 22 de junio de 2022
+
+**Progreso de hoy**: Round 2 (Ecmascript 6).
+
+**Reflexiones:** Espectacular es6, me encanta. Todo entendible hasta el momento.

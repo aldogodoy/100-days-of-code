@@ -31,3 +31,7 @@ Empezando Math.
 Math.Random(), parseInt, multiple ternary operators, recursion to create a range of numbers
 Round 1 done!.
 Mañana ECMAScript 6!
+
+### R2D7
+Empezamos con ES6!!
+Let vs Var, mutacion de array declarados con const, prevenir la mutacion con Object.freeze, funciones de flecha con y sin parametros, parametros rest en funciones con parametro, operador spread.
