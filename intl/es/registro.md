@@ -43,3 +43,9 @@
 **Progreso de hoy**: Round 2 (Ecmascript 6).
 
 **Reflexiones:** Espectacular es6, me encanta. Todo entendible hasta el momento.
+
+### Día 7: 22 de junio de 2022
+
+**Progreso de hoy**: Abreviaciones.
+
+**Reflexiones:** La desestructuración es espectacular, hay que practicar bastante para acordarse.

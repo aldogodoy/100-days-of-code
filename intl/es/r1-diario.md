@@ -35,3 +35,6 @@ Mañana ECMAScript 6!
 ### R2D7
 Empezamos con ES6!!
 Let vs Var, mutacion de array declarados con const, prevenir la mutacion con Object.freeze, funciones de flecha con y sin parametros, parametros rest en funciones con parametro, operador spread.
+
+### R2D8
+Desestructuración, template literales, abreviatura de objetos literales, funciones breves y declarativas dentro de objetos.
