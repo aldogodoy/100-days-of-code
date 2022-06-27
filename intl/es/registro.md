@@ -44,8 +44,26 @@
 
 **Reflexiones:** Espectacular es6, me encanta. Todo entendible hasta el momento.
 
-### Día 7: 22 de junio de 2022
+### Día 7: 23 de junio de 2022
 
 **Progreso de hoy**: Abreviaciones.
 
 **Reflexiones:** La desestructuración es espectacular, hay que practicar bastante para acordarse.
+
+### Día 8: 24 de junio de 2022
+
+**Progreso de hoy**: Sintaxis de clases, getters y setters, módulos para scripts, import por y sin defecto, export por y sin defecto.
+
+**Reflexiones:** por fin entendí la importacion por defecto.
+
+### Día 9: 25 de junio de 2022
+
+**Progreso de hoy**: Promesas, funciones de resolve y reject, metodos then y catch
+
+**Reflexiones:** Bien claros los conceptos, todo entendible hasta el momento.
+
+### Día 10: 26 de junio de 2022
+
+**Progreso de hoy**: expresiones regulares día 1
+
+**Reflexiones:** sin comentarios

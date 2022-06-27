@@ -38,3 +38,12 @@ Let vs Var, mutacion de array declarados con const, prevenir la mutacion con Obj
 
 ### R2D8
 Desestructuración, template literales, abreviatura de objetos literales, funciones breves y declarativas dentro de objetos.
+
+### R2D9
+Sintaxis de clases, getters y setters, módulos para scripts, import, export
+
+### R2D10
+Promise, resolve, reject, then, catch
+
+### R3D11
+Metodo test, metodo match, ignorar case, lazy matching
