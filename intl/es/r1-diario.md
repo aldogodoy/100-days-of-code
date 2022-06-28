@@ -47,3 +47,6 @@ Promise, resolve, reject, then, catch
 
 ### R3D11
 Metodo test, metodo match, ignorar case, lazy matching
+
+### R3D12
+Comparar cadenas al principio, comparar cadenas al final, match de letras y numeros, match de solo letras y sólo números, modos abreviados, match de espacios en blanco y de caracteres que no son espacios en blanco, especificar la mayor y menor coincidencias

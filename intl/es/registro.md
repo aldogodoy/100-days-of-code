@@ -62,8 +62,14 @@
 
 **Reflexiones:** Bien claros los conceptos, todo entendible hasta el momento.
 
-### Día 10: 26 de junio de 2022
+### Día 10: 27 de junio de 2022
 
 **Progreso de hoy**: expresiones regulares día 1
+
+**Reflexiones:** sin comentarios
+
+### Día 11: 28 de junio de 2022
+
+**Progreso de hoy**: expresiones regulares día 2
 
 **Reflexiones:** sin comentarios
