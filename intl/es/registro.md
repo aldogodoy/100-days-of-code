@@ -73,3 +73,10 @@
 **Progreso de hoy**: expresiones regulares día 2
 
 **Reflexiones:** sin comentarios
+
+
+### Día 12: 01 de julio de 2022
+
+**Progreso de hoy**: expresiones regulares día 3
+
+**Reflexiones:** terminamos expresiones regulares, potentísima herramienta para explotar con el conocimiento adecuado

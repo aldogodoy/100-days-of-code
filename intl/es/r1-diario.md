@@ -50,3 +50,7 @@ Metodo test, metodo match, ignorar case, lazy matching
 
 ### R3D12
 Comparar cadenas al principio, comparar cadenas al final, match de letras y numeros, match de solo letras y sólo números, modos abreviados, match de espacios en blanco y de caracteres que no son espacios en blanco, especificar la mayor y menor coincidencias
+
+### R3D13
+Especifica el menor y mayor número de coincidencias, Especifica solo el menor número de coincidencias, Especifica el número exacto de coincidencias, Comprobar todos o ninguno, Lookahead positivo y negativo,
+Agrupaciones mixtas de caracteres, Reutiliza patrones usando grupos de captura, buscar y reemplazar con replace(), Elimina espacio en blanco del inicio y final
