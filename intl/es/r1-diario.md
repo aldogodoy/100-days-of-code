@@ -54,3 +54,6 @@ Comparar cadenas al principio, comparar cadenas al final, match de letras y nume
 ### R3D13
 Especifica el menor y mayor número de coincidencias, Especifica solo el menor número de coincidencias, Especifica el número exacto de coincidencias, Comprobar todos o ninguno, Lookahead positivo y negativo,
 Agrupaciones mixtas de caracteres, Reutiliza patrones usando grupos de captura, buscar y reemplazar con replace(), Elimina espacio en blanco del inicio y final
+
+### R4D14
+console.log(), typeof, Captura nombres de variables y funciones mal escritos, Captura paréntesis, corchetes, llaves y comillas sin cerrar, Captura el uso del operador de asignación en lugar del operador de igualdad, Captura los paréntesis de apertura y cierre que faltan después de una llamada a una función, Captura argumentos pasados en el orden incorrecto al llamar a una función, Captura los errores por uno al utilizar indexación, Ten cuidado al reinicializar variables dentro de un bucle, Prevenir bucles infinitos con una condición terminal válida

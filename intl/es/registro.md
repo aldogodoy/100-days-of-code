@@ -80,3 +80,9 @@
 **Progreso de hoy**: expresiones regulares día 3
 
 **Reflexiones:** terminamos expresiones regulares, potentísima herramienta para explotar con el conocimiento adecuado
+
+### Día 13: 05 de julio de 2022
+
+**Progreso de hoy**: Debugging, ejercicios con console.log y typeof lo más rescatable
+
+**Reflexiones:** La verdad que pensé que el contenido iba a ser mas profundo. Muy poco sobre debug en javascritp
