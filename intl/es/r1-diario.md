@@ -57,3 +57,7 @@ Agrupaciones mixtas de caracteres, Reutiliza patrones usando grupos de captura, 
 
 ### R4D14
 console.log(), typeof, Captura nombres de variables y funciones mal escritos, Captura paréntesis, corchetes, llaves y comillas sin cerrar, Captura el uso del operador de asignación en lugar del operador de igualdad, Captura los paréntesis de apertura y cierre que faltan después de una llamada a una función, Captura argumentos pasados en el orden incorrecto al llamar a una función, Captura los errores por uno al utilizar indexación, Ten cuidado al reinicializar variables dentro de un bucle, Prevenir bucles infinitos con una condición terminal válida
+
+### R5D15
+Arreglos para almacenar una colección de datos, Acceder a los contenidos de un arreglo utilizando la notación de corchetes, Agrega elementos a un arreglo con push() y unshift(), Elimina elementos de un arreglo con pop() y shift(), Elimina elementos usando splice(), Agrega elementos usando splice(),
+Copia elementos de un arreglo usando slice(), Copia un arreglo con el operador de propagación, Combina arreglos con el operador de propagación, Comprueba la presencia de un elemento con indexOf()

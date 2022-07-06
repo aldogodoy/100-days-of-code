@@ -86,3 +86,9 @@
 **Progreso de hoy**: Debugging, ejercicios con console.log y typeof lo más rescatable
 
 **Reflexiones:** La verdad que pensé que el contenido iba a ser mas profundo. Muy poco sobre debug en javascritp
+
+### Día 14: 06 de julio de 2022
+
+**Progreso de hoy**: Estructura de datos básicas. Array y sus funciones paran agregar, quitar y copiar
+
+**Reflexiones:** Aprendi mucho sobre el poder de splice y slice, muy útil en el futuro
