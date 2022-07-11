@@ -92,3 +92,9 @@
 **Progreso de hoy**: Estructura de datos básicas. Array y sus funciones paran agregar, quitar y copiar
 
 **Reflexiones:** Aprendi mucho sobre el poder de splice y slice, muy útil en el futuro
+
+### Día 15: 11 de julio de 2022
+
+**Progreso de hoy**: terminamos con Estructura de datos básicas
+
+**Reflexiones:** La notación de corchetes es necesaria si tu propiedad tiene un espacio en ella o si se quiere utilizar una variable para nombrar la propiedad
