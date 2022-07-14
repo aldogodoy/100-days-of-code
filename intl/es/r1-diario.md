@@ -61,5 +61,9 @@ console.log(), typeof, Captura nombres de variables y funciones mal escritos, Ca
 ### R5D15
 Arreglos para almacenar una colección de datos, Acceder a los contenidos de un arreglo utilizando la notación de corchetes, Agrega elementos a un arreglo con push() y unshift(), Elimina elementos de un arreglo con pop() y shift(), Elimina elementos usando splice(), Agrega elementos usando splice(),
 Copia elementos de un arreglo usando slice(), Copia un arreglo con el operador de propagación, Combina arreglos con el operador de propagación, Comprueba la presencia de un elemento con indexOf()
+
 ### R5D16
 bucles "for", arreglos complejos multidimensionales, pares clave-valor a objetos de JavaScript, objeto anidado dentro de un objeto, Accede a los nombres de propiedad con la notación de corchetes, palabra clave "delete" para eliminar las propiedades de los objetos, hasOwnProperty() e in, Iterar a través de las claves de un objeto con "for...in", Genera un arreglo de todas las claves de los objetos con Object.keys()
+
+### R6D17
+Convierte Celsius a Fahrenheit, Invierte una cadena, Factoriza un número, Encuentra la palabra más larga en una cadena, Devuelve los números mayores en los arreglos, Confirma el final, Repite una cadena repite una cadena, Recorta una cadena

@@ -98,3 +98,9 @@
 **Progreso de hoy**: terminamos con Estructura de datos básicas
 
 **Reflexiones:** La notación de corchetes es necesaria si tu propiedad tiene un espacio en ella o si se quiere utilizar una variable para nombrar la propiedad
+
+### Día 16: 13 de julio de 2022
+
+**Progreso de hoy**: La mitad de programación de algoritmos básicos
+
+**Reflexiones:** muchos ejercicios interesantes para poner en práctica todo lo aprendido hasta el momento
