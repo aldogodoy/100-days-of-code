@@ -67,3 +67,6 @@ bucles "for", arreglos complejos multidimensionales, pares clave-valor a objetos
 
 ### R6D17
 Convierte Celsius a Fahrenheit, Invierte una cadena, Factoriza un número, Encuentra la palabra más larga en una cadena, Devuelve los números mayores en los arreglos, Confirma el final, Repite una cadena repite una cadena, Recorta una cadena
+
+### R6D18
+Buscadores guardianes, Boo who (Booleano Quién), Haz que la primera letra de una palabra este en mayúscula, Cortar y rebanar, Falsy Bouncer, Dónde pertenezco, Chunkey Monkey

@@ -104,3 +104,9 @@
 **Progreso de hoy**: La mitad de programación de algoritmos básicos
 
 **Reflexiones:** muchos ejercicios interesantes para poner en práctica todo lo aprendido hasta el momento
+
+### Día 17: 14 de julio de 2022
+
+**Progreso de hoy**: La otra mitad de programación de algoritmos básicos
+
+**Reflexiones:** hice varios ejercicios pero los últimos ya tuve que pedir ayuda
