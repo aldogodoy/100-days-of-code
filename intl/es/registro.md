@@ -110,3 +110,9 @@
 **Progreso de hoy**: La otra mitad de programación de algoritmos básicos
 
 **Reflexiones:** hice varios ejercicios pero los últimos ya tuve que pedir ayuda
+
+### Día 18: 19 de julio de 2022
+
+**Progreso de hoy**: Empezamos programación orientada a objetos.
+
+**Reflexiones:** 

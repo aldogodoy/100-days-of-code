@@ -70,3 +70,7 @@ Convierte Celsius a Fahrenheit, Invierte una cadena, Factoriza un número, Encue
 
 ### R6D18
 Buscadores guardianes, Boo who (Booleano Quién), Haz que la primera letra de una palabra este en mayúscula, Cortar y rebanar, Falsy Bouncer, Dónde pertenezco, Chunkey Monkey
+
+### R7D19
+objeto básico de JavaScript, notación de puntos para acceder a las propiedades de un objeto, un método en un objeto,
+palabra clave "this", Define una función "Constructor", Utiliza un constructor para crear objetos (con "new"),Extender constructores para recibir argumentos, Verifica el constructor de un objeto con "instanceof", Comprender las propiedades directas, Utiliza propiedades "prototype" para reducir código duplicado
