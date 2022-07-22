@@ -116,3 +116,9 @@
 **Progreso de hoy**: Empezamos programación orientada a objetos.
 
 **Reflexiones:** 
+
+### Día 19: 22 de julio de 2022
+
+**Progreso de hoy**: Terminamos programación orientada a objetos.
+
+**Reflexiones:** un poco aburrido, tal vez porque no le preste atención suficiente, mañana programación funcional

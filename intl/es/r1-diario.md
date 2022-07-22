@@ -74,3 +74,6 @@ Buscadores guardianes, Boo who (Booleano Quién), Haz que la primera letra de un
 ### R7D19
 objeto básico de JavaScript, notación de puntos para acceder a las propiedades de un objeto, un método en un objeto,
 palabra clave "this", Define una función "Constructor", Utiliza un constructor para crear objetos (con "new"),Extender constructores para recibir argumentos, Verifica el constructor de un objeto con "instanceof", Comprender las propiedades directas, Utiliza propiedades "prototype" para reducir código duplicado
+
+### R7D20
+Itera sobre todas las propiedades, Entiende la propiedad constructor, Cambia el prototipo a un nuevo objeto, establecer la propiedad "constructor" al cambiar el prototipo, Entendiendo de dónde viene el prototipo de un objeto, isPrototypeOf, la cadena "prototype", Usa herencia para que no te repitas, Hereda comportamientos de un supertipo (supertype), Establece el prototipo de hijo para una instancia del padre, Restablece una propiedad "constructor" heredada, Añade métodos después de la herencia,Sobrescribir métodos heredados, "mixin", closures, funciones que son invocadas inmediatamente (IIFE), IIFE para crear un módulo
