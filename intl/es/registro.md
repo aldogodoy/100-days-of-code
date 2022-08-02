@@ -122,3 +122,9 @@
 **Progreso de hoy**: Terminamos programación orientada a objetos.
 
 **Reflexiones:** un poco aburrido, tal vez porque no le preste atención suficiente, mañana programación funcional
+
+### Día 20: 02 de agosto de 2022
+
+**Progreso de hoy**: programación Funcional a punto.
+
+**Reflexiones:** Asentando las bases con los ejercicios.
