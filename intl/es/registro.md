@@ -128,3 +128,9 @@
 **Progreso de hoy**: programación Funcional a punto.
 
 **Reflexiones:** Asentando las bases con los ejercicios.
+
+### Día 21: 03 de agosto de 2022
+
+**Progreso de hoy**: terminamos programación Funcional.
+
+**Reflexiones:** Valioso para lo que se viene.
