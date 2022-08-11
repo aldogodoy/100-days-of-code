@@ -134,3 +134,9 @@
 **Progreso de hoy**: terminamos programación Funcional.
 
 **Reflexiones:** Valioso para lo que se viene.
+
+### Día 22: 11 de agosto de 2022
+
+**Progreso de hoy**: terminamos programación de algoritmos intermedios.
+
+**Reflexiones:** Después de varios días logré terminar y ahora recién voy a hacer commit de lo realizado. Al principio hice bien los ejercicios, al final se complicó todo

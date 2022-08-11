@@ -83,3 +83,6 @@ sobre programación funcional, terminología de la programación funcional, peli
 
 ### R8D22
 Aplicar programación funcional para convertir cadenas a slugs de URL, Usa el método "every" para comprobar que cada elemento de un arreglo atienda un criterio, Usa el método "some" para comprobar si algún elemento en un arreglo cumple un criterio, Introducción a la currificación y a la aplicación de funciones parciales
+
+### R8D23
+Suma todos los números en un rango, Diferencia entre dos arreglos, Busca y destruye, Donde estás, Spinal case, Pig Latin (Latin de los cerdos), Busca y reemplaza, Emparejamiento de ADN, Letras faltantes, Unión ordenada, Convierte entidades HTML, Suma todos los números impares de Fibonacci, Suma todos los números primos, Mínimo común múltiplo, Déjalo caer, Aplanadora, Todo sea verdad, Argumentos opcionales, Crea una persona, Mapea el Debris
