@@ -135,8 +135,14 @@
 
 **Reflexiones:** Valioso para lo que se viene.
 
-### Día 22: 11 de agosto de 2022
+### Día 22: 10 de agosto de 2022
 
 **Progreso de hoy**: terminamos programación de algoritmos intermedios.
 
-**Reflexiones:** Después de varios días logré terminar y ahora recién voy a hacer commit de lo realizado. Al principio hice bien los ejercicios, al final se complicó todo
+**Reflexiones:** Después de varios días logré terminar y ahora recién voy a hacer commit de lo realizado. Al principio hice bien los ejercicios, al final se complicó todo.
+
+### Día 23: 11 de agosto de 2022
+
+**Progreso de hoy**: Algoritmos de javascript y proyectos de estructuras de datos
+
+**Reflexiones:** Sólo el palindromo pude hace sólo.

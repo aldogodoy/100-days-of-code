@@ -86,3 +86,6 @@ Aplicar programación funcional para convertir cadenas a slugs de URL, Usa el m�
 
 ### R8D23
 Suma todos los números en un rango, Diferencia entre dos arreglos, Busca y destruye, Donde estás, Spinal case, Pig Latin (Latin de los cerdos), Busca y reemplaza, Emparejamiento de ADN, Letras faltantes, Unión ordenada, Convierte entidades HTML, Suma todos los números impares de Fibonacci, Suma todos los números primos, Mínimo común múltiplo, Déjalo caer, Aplanadora, Todo sea verdad, Argumentos opcionales, Crea una persona, Mapea el Debris
+
+### R9D24
+Comprobador de palíndromos, Conversor de números romanos, Cifrado César, Validador de números telefónicos, Caja registradora
